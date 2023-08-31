@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33ed678-d87d-44db-a2e9-dc7f1dbeb011" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1693272129086">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1693272596040">
       <screen x="0" y="25" width="1440" height="813" />
     </state>
-    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1693272129086" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1693272536592">
-      <screen x="0" y="25" width="1440" height="813" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.813@0.25.1440.813" timestamp="1693272596040" />
+    <state x="221" y="63" key="SettingsEditor" timestamp="1693300951564">
+      <screen x="0" y="25" width="1440" height="814" />
     </state>
     <state x="221" y="63" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1693272536592" />
+    <state x="221" y="63" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1693300951564" />
   </component>
 </project>

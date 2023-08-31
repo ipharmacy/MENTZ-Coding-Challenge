@@ -32,7 +32,7 @@ class Location {
     id = json['id'];
     isGlobalId = json['isGlobalId'];
     name = json['name'];
-    disassembledName = json['disassembledName'];
+    disassembledName = json['disassembledName'] ?? "";
     coord = List.castFrom<dynamic, dynamic>(json['coord']);
     type = json['type'];
     matchQuality = json['matchQuality'];
